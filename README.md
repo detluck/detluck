@@ -16,6 +16,8 @@ I'm a **Computer Science student at Hamburg University of Applied Sciences**, pa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detluck&hide=css,Jupyter%20Notebook&theme=tokyonight)
 
+![detluck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=detluck&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ### 🛠️ Tech Stack
 
 #### Languages
