@@ -13,10 +13,9 @@ I'm a **Computer Science student at Hamburg University of Applied Sciences**, pa
 ### 📊 GitHub Stats
 
 ![detluck's Stats](https://github-readme-stats.vercel.app/api?username=detluck&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 ![detluck's Streak](https://github-readme-streak-stats.herokuapp.com/?user=detluck&theme=tokyonight&hide_border=true)
 
-![detluck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=detluck&hide=css,Jypyter%20Notebook&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![detluck's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=detluck&hide=css,Jupyter%20Notebook&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### 🛠️ Tech Stack
 
