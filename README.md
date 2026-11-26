@@ -14,7 +14,7 @@ I'm a **Computer Science student at Hamburg University of Applied Sciences**, pa
 
 [![GitHubCard](https://githubcard.com/detluck.svg)](https://githubcard.com/detluck/card?utm_source=github&utm_medium=readme)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detluck&hide=css,ipynb&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detluck&hide=css,Jupyter%20Notebook&theme=tokyonight)
 
 ### 🛠️ Tech Stack
 
