@@ -12,14 +12,7 @@ I'm a **Computer Science student at Hamburg University of Applied Sciences**, pa
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/api?username=detluck&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=detluck&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=detluck&theme=tokyonight" height="180"/>
-</p>
+[![GitHubCard](https://githubcard.com/detluck.svg)](https://githubcard.com/detluck/card?utm_source=github&utm_medium=readme)
 
 ### 🛠️ Tech Stack
 
